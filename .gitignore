@@ -1,0 +1,12 @@
+cat <<EOT > .gitignore
+build/
+dist/
+temp_gagodbolka/
+# Ignorar modelos de voz pesados
+voces/*.onnx
+voces/*.json
+*.spec
+*.exe
+*.wav
+*.mp3
+EOT

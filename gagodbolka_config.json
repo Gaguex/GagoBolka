@@ -1,0 +1,9 @@
+{
+  "ajustes": {
+    "voz": "en_US-ryan-high.onnx",
+    "speaker": null,
+    "velocidad": 0.75,
+    "cpu_pct": 25,
+    "kbps": 0
+  }
+}
